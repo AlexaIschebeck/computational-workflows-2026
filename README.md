@@ -26,8 +26,8 @@ conda
 docker
 
 # install via Conda:
-nextflow>=25.04
-nf-core>=3.3
+nextflow>=26.04
+nf-core>=4.1
 python>=3.9
 pandas
 matplotlib
