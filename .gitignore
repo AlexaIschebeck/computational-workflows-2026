@@ -1,0 +1,22 @@
+# Nextflow temporary files
+.nextflow/
+.nextflow.log*
+work/
+
+# Generated nf-core results we don't need
+test_results/other/
+test_results/pipeline_info/
+test_results/report/
+test_results/shinyngs_app/
+test_results/tables/
+
+# Generated plots we don't need
+test_results/plots/differential/rnaseq_deseq2_gsea/treatment_mCherry_hND6_sample_number_SRP254919/
+
+test_results/plots/exploratory/rnaseq_deseq2_gsea/treatment/png/boxplot.png
+test_results/plots/exploratory/rnaseq_deseq2_gsea/treatment/png/density.png
+test_results/plots/exploratory/rnaseq_deseq2_gsea/treatment/png/mad_correlation.png
+test_results/plots/exploratory/rnaseq_deseq2_gsea/treatment/png/pca3d.png
+test_results/plots/exploratory/rnaseq_deseq2_gsea/treatment/png/sample_dendrogram.png
+
+test_results/plots/qc/rnaseq_deseq2_gsea/treatment_mCherry_hND6_sample_number_SRP254919.deseq2.dispersion.png
