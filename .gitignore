@@ -20,3 +20,8 @@ test_results/plots/exploratory/rnaseq_deseq2_gsea/treatment/png/pca3d.png
 test_results/plots/exploratory/rnaseq_deseq2_gsea/treatment/png/sample_dendrogram.png
 
 test_results/plots/qc/rnaseq_deseq2_gsea/treatment_mCherry_hND6_sample_number_SRP254919.deseq2.dispersion.png
+
+# Day 02 generated/downloaded data
+day_02/fetchngs_results/
+day_02/rnaseq_results/
+day_02/reference_chr19/

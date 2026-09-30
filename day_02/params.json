@@ -1,0 +1,7 @@
+{
+    "input": "rnaseq_samplesheet.csv",
+    "outdir": "rnaseq_results",
+    "genome": "GRCm38",
+    "pseudo_aligner": "salmon",
+    "skip_alignment": true
+}
