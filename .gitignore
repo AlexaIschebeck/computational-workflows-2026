@@ -25,3 +25,7 @@ test_results/plots/qc/rnaseq_deseq2_gsea/treatment_mCherry_hND6_sample_number_SR
 day_02/fetchngs_results/
 day_02/rnaseq_results/
 day_02/reference_chr19/
+
+# Day 03 generated differential abundance results
+day_03/differentialabundance_results/
+day_03/differentialabundance_venn_results/
