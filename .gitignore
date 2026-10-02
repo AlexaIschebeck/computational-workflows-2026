@@ -29,3 +29,8 @@ day_02/reference_chr19/
 # Day 03 generated differential abundance results
 day_03/differentialabundance_results/
 day_03/differentialabundance_venn_results/
+
+# Local Docker configuration and generated FastQC results
+config/docker-clean/
+day_04/fastqc_local_results/
+day_04/fastqc_results/
