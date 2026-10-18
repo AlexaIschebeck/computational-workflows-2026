@@ -110,7 +110,9 @@ workflow{
 
         left_ch.join(right_ch).view()
 
-        // Only one matching pair per key is returned. Duplicate keys are not combined into additional output tuples (make sure keys are unique)
+        // join() matches tuples from two channels using a common key.
+        // By default, duplicate keys are not supported for joining.
+        // Unlike groupTuple(), join() does not group values into lists.
 
     }
 
